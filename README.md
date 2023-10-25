@@ -1,4 +1,4 @@
-### Hi everyone, I'm Chi An Le 🔭
+#### Hi everyone, I'm Chi An Le 🔭
 
 I am looking to land my first job as a Data Analyst. I started my career as an Automotive Software Developer at Bosch Global Software Vietnam (BGSV). I have a BEng degree in Mechatronics and a MSc degree in Engineering Management.
 
